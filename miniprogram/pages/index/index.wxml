@@ -1,4 +1,0 @@
-<view class="page">
-  <view class="title">{{message}}</view>
-  <van-button plain type="info" bindtap="hi">朴素按钮</van-button>
-</view>
