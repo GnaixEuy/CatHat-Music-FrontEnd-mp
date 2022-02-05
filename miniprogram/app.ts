@@ -4,11 +4,10 @@ import { getToken } from "./utils/auth"
 App<IAppOption>({
   globalData: {},
   onShow() {
-    
-    if (!getToken() ) {
-      wx.navigateTo({
-        url: '/pages/login/index'
-      })
-    }
+    // if (!getToken() ) {
+    //   wx.navigateTo({
+    //     url: '/pages/login/index'
+    //   })
+    // }
   },  
 })

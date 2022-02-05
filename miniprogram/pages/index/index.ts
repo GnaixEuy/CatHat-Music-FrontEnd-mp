@@ -5,7 +5,82 @@ Page({
    * 页面的初始数据
    */
   data: {
-
+    categoryBannerList: [
+      {
+        title: '流行音乐',
+        desc: '1.5万播放',
+        image: '../../images/hip-hop.png'
+      },
+      {
+        title: '流行音乐',
+        desc: '1.5万播放',
+        image: '../../images/hip-hop.png'
+      },
+      {
+        title: '流行音乐',
+        desc: '1.5万播放',
+        image: '../../images/hip-hop.png'
+      }
+    ],
+    musicianBannerList: [
+      {
+        id: 111,
+        name: '雷哈娜',
+        category: '流行音乐',
+        photo: '../../images/musician-photo.png'
+      },
+      {
+        id: 222,
+        name: '雷哈娜',
+        category: '流行音乐',
+        photo: '../../images/musician-photo.png'
+      },
+      {
+        id: 333,
+        name: '雷哈娜',
+        category: '流行音乐',
+        photo: '../../images/musician-photo.png'
+      },
+      {
+        id: 333,
+        name: '雷哈娜',
+        category: '流行音乐',
+        photo: '../../images/musician-photo.png'
+      },
+      {
+        id: 333,
+        name: '雷哈娜',
+        category: '流行音乐',
+        photo: '../../images/musician-photo.png'
+      },
+    ],
+    playlist: [
+      {
+        image: '../../images/album.png',
+        title: '心流歌单',
+        description: '歌单描述'
+      },
+      {
+        image: '../../images/album.png',
+        title: '心流歌单',
+        description: '歌单描述'
+      },
+      {
+        image: '../../images/album.png',
+        title: '心流歌单',
+        description: '歌单描述'
+      },
+      {
+        image: '../../images/album.png',
+        title: '心流歌单',
+        description: '歌单描述'
+      },
+      {
+        image: '../../images/album.png',
+        title: '心流歌单',
+        description: '歌单描述'
+      }
+    ]
   },
 
   /**

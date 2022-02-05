@@ -1,4 +1,4 @@
-// pages/logs/logs.ts
+// pages/search/index.ts
 Page({
 
   /**
