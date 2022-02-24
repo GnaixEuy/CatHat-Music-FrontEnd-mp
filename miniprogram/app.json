@@ -3,7 +3,11 @@
     "pages/index/index",
     "pages/search/index",
     "pages/lib/index",
-    "pages/login/index"
+    "pages/login/index",
+    "components/scrollable-section/index",
+    "components/album-card/index",
+    "components/music-list/index",
+    "components/title-banner/index"
   ],
   "window": {
     "backgroundTextStyle": "light",
