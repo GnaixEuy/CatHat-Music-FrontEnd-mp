@@ -55,26 +55,31 @@ Page({
     ],
     playlist: [
       {
+        id:'test',
         image: '../../images/album.png',
         title: '心流歌单',
         description: '歌单描述'
       },
       {
+        id:'test',
         image: '../../images/album.png',
         title: '心流歌单',
         description: '歌单描述'
       },
       {
+        id:'test',
         image: '../../images/album.png',
         title: '心流歌单',
         description: '歌单描述'
       },
       {
+        id:'test',
         image: '../../images/album.png',
         title: '心流歌单',
         description: '歌单描述'
       },
       {
+        id:'test',
         image: '../../images/album.png',
         title: '心流歌单',
         description: '歌单描述'

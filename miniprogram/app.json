@@ -4,6 +4,7 @@
     "pages/search/index",
     "pages/lib/index",
     "pages/login/index",
+    "pages/play-list/detail",
     "components/scrollable-section/index",
     "components/album-card/index",
     "components/music-list/index",
