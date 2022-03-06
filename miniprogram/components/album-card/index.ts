@@ -28,7 +28,8 @@ Component({
     onTab() {
       const id = this.properties.item.id
       wx.navigateTo({
-        url: `/pages/play-list/detail?id=${id}`
+        // url: `/pages/play-list/detail?id=${id}`
+        url: '/pages/playlist/detail?id=11'
       })
     }
   }
