@@ -29,7 +29,7 @@ Component({
       const id = this.properties.item.id
       wx.navigateTo({
         // url: `/pages/play-list/detail?id=${id}`
-        url: '/pages/playlist/detail?id=11'
+        url: '/pages/playlist/detail?id=1'
       })
     }
   }
